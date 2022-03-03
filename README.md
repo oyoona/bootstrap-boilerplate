@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-# bootstrap-boilerplate
-=======
 # bootstrap-boilerplate
 
 This project was started on March 1, 2022.
@@ -15,4 +12,3 @@ This project includes:
 - css/style.css
 - js /
 - img /
->>>>>>> Stashed changes
